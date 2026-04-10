@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">30 Days of recipes</string>
+    <string name="day">"Day %d"</string>
+
+    <string name="day_1_title">Classic Syrniki (Cheese Pancakes)</string>
+    <string name="day_1_description">Tender cottage cheese pancakes that melt in your mouth. The perfect breakfast for the whole family.</string>
+    <string name="day_1_recipe">Mix 300 g of cottage cheese with 1 egg, 1 tbsp of sugar and a pinch of salt. Add 2 tbsp of flour, knead the dough. Form into patties, dredge in flour. Fry in vegetable oil for 2-3 minutes on each side. Serve with sour cream.</string>
+
+    <string name="day_2_title">Hot Sandwiches</string>
+    <string name="day_2_description">Crispy sandwiches with melted cheese — a quick snack that will save you in any situation.</string>
+    <string name="day_2_recipe">Grate 100 g of boiled sausage and 80 g of hard cheese, mix with 2 tbsp of mayonnaise. Spread onto 4 slices of baguette. Bake for 10 minutes at 180°C (350°F).</string>
+
+    <string name="day_3_title">Fried Eggs in Bell Pepper</string>
+    <string name="day_3_description">A bright and healthy dish that will decorate any breakfast. Fried eggs in an edible bowl.</string>
+    <string name="day_3_recipe">Cut bell pepper into rings 1 cm thick. Fry the rings in a pan on both sides. Crack 1 egg into each ring, season with salt and pepper. Fry covered until done.</string>
+
+    <string name="day_4_title">Banana Pancakes</string>
+    <string name="day_4_description">Fluffy pancakes without sugar — the sweetness of ripe bananas makes them perfect for a healthy breakfast.</string>
+    <string name="day_4_recipe">Mash 1 ripe banana with a fork, add 1 egg and 3 tbsp of flour, mix. Fry on a dry non-stick pan for 2 minutes on each side.</string>
+
+    <string name="day_5_title">Rice Porridge with Apple</string>
+    <string name="day_5_description">Milk porridge with apple and cinnamon — a cozy breakfast with the aroma of childhood.</string>
+    <string name="day_5_recipe">Pour 200 ml of milk and 100 ml of water over 100 g of rice, cook for 15-20 minutes. Grate 1 apple, add to the porridge along with 0.5 tsp of cinnamon and honey to taste.</string>
+
+    <string name="day_6_title">Cottage Cheese Casserole</string>
+    <string name="day_6_description">Fluffy and tender casserole with raisins — just like in kindergarten. A great way to feed cottage cheese even to those who don\'t like it.</string>
+    <string name="day_6_recipe">Mix 300 g of cottage cheese with 1 egg, 2 tbsp of semolina, 2 tbsp of sugar and 50 g of raisins. Put into a mold, spread 1 tbsp of sour cream on top. Bake for 25-30 minutes at 180°C (350°F).</string>
+
+    <string name="day_7_title">French Toast</string>
+    <string name="day_7_description">Golden toast for breakfast — simple, hearty and delicious. Crispy crust and tender center.</string>
+    <string name="day_7_recipe">Whisk 2 eggs with 50 ml of milk and a pinch of salt. Dip 4 slices of baguette in the mixture. Fry in butter until golden brown.</string>
+
+    <string name="day_8_title">Chicken Noodle Soup</string>
+    <string name="day_8_description">Light and clear soup that will warm you up and give you strength. A classic of home cooking.</string>
+    <string name="day_8_recipe">Boil 300 g of chicken fillet in 1.5 liters of water (20 minutes), chop the meat. Add 3 diced potatoes to the broth. Grate 1 carrot, chop 1 onion, sauté, add to the soup. After 10 minutes, add 50 g of vermicelli, return the chicken, cook for 5 minutes. Add herbs, salt, pepper.</string>
+
+    <string name="day_9_title">Tuna Salad</string>
+    <string name="day_9_description">A simple and hearty salad made with canned tuna — an ideal option for a quick lunch.</string>
+    <string name="day_9_recipe">Dice 2 hard-boiled eggs. Mash 1 can of tuna with a fork. Add 100 g of canned corn and a bunch of green onions. Dress with 2 tbsp of mayonnaise, add salt.</string>
+
+    <string name="day_10_title">Greek Salad</string>
+    <string name="day_10_description">A juicy and bright salad with fresh vegetables and tender feta cheese. A taste of the Mediterranean on your table.</string>
+    <string name="day_10_recipe">Coarsely chop 1 cucumber, 2 tomatoes, 1 bell pepper, half a red onion. Add 150 g of feta cheese (cubed) and 10-12 olives. Dress with 3 tbsp of olive oil, salt, pepper, sprinkle with oregano.</string>
+
+    <string name="day_11_title">Cheese Soup</string>
+    <string name="day_11_description">A creamy and flavorful soup with processed cheese — a real cream soup in no time.</string>
+    <string name="day_11_recipe">Add 3 diced potatoes to 1.5 liters of boiling water. Sauté 1 grated carrot and 1 chopped onion, add to the soup. When the potatoes are cooked, add 2 processed cheese slices (200 g), cut into cubes. Stir until dissolved. Add salt, pepper, herbs.</string>
+
+    <string name="day_12_title">Chicken Salad with Croutons</string>
+    <string name="day_12_description">A crunchy salad with tender chicken — a great alternative to restaurant Caesar at home.</string>
+    <string name="day_12_recipe">Fry 200 g of chicken fillet and dice it. Tear a bunch of lettuce, halve 150 g of cherry tomatoes. For the sauce, mix 2 tbsp of mayonnaise with 1 clove of garlic (minced) and 1 tsp of lemon juice. Mix chicken, lettuce, tomatoes and 50 g of croutons, dress with the sauce.</string>
+
+    <string name="day_13_title">Pea Soup</string>
+    <string name="day_13_description">A hearty and rich soup with a smoky aroma. A favorite dish for the cold season.</string>
+    <string name="day_13_recipe">Soak 200 g of peas overnight. Boil 300 g of meat (pork or chicken) in 2 liters of water until done. Add peas, cook for 30-40 minutes. Add 3 diced potatoes. Sauté 1 carrot and 1 onion, add to the soup. Cook until potatoes are tender. Add salt and pepper.</string>
+
+    <string name="day_14_title">Crab Stick Salad</string>
+    <string name="day_14_description">A classic salad that everyone loves. Tender, juicy and very easy to prepare.</string>
+    <string name="day_14_recipe">Chop 200 g of crab sticks, add 2 diced hard-boiled eggs, 100 g of canned corn, 1 fresh cucumber (diced) and green onions. Dress with mayonnaise.</string>
+
+    <string name="day_15_title">Navy-Style Pasta</string>
+    <string name="day_15_description">A hearty and quick dish from childhood. Pasta with ground meat — simple and delicious.</string>
+    <string name="day_15_recipe">Boil 300 g of pasta. Fry 300 g of minced meat with 1 onion, season with salt and pepper. Mix the minced meat with pasta and heat for 2 minutes.</string>
+
+    <string name="day_16_title">Oven-Baked Chicken Legs</string>
+    <string name="day_16_description">Rosy and juicy chicken legs with a crispy crust. A simple dinner without any hassle.</string>
+    <string name="day_16_recipe">Rub 4 chicken drumsticks with salt, pepper, paprika and coat with sour cream (2 tbsp). Bake for 30-40 minutes at 200°C (400°F).</string>
+
+    <string name="day_17_title">Potato and Minced Meat Casserole</string>
+    <string name="day_17_description">A hearty casserole with a cheese crust — a complete dinner for the whole family.</string>
+    <string name="day_17_recipe">Slice 4-5 potatoes thinly. Fry 300 g of minced meat with onion. Layer in a mold: potatoes, minced meat, potatoes. Pour over a mixture of 1 egg and 100 ml of milk, sprinkle with 100 g of grated cheese. Bake for 40 minutes at 180°C (350°F).</string>
+
+    <string name="day_18_title">Draniki (Potato Pancakes)</string>
+    <string name="day_18_description">Crispy potato pancakes with a golden crust. Serve with sour cream — finger-licking good!</string>
+    <string name="day_18_recipe">Grate 4 potatoes and 1 onion on a fine grater, add 1 egg, 1 tbsp of flour, salt. Spoon the mixture onto a pan with vegetable oil and fry on both sides until golden brown. Serve with sour cream.</string>
+
+    <string name="day_19_title">Fish in Foil</string>
+    <string name="day_19_description">Tender and juicy fish fillet baked in its own juices. A healthy dinner in 20 minutes.</string>
+    <string name="day_19_recipe">Season 300 g of any fish fillet with salt, pepper, sprinkle with lemon juice. Top with a piece of butter and dill. Wrap in foil, bake for 20-25 minutes at 200°C (400°F).</string>
+
+    <string name="day_20_title">Vegetable Stew</string>
+    <string name="day_20_description">A light and juicy vegetable stew — an ideal side dish or a standalone dish for vegetarians.</string>
+    <string name="day_20_recipe">Sauté 1 onion and 1 carrot. Add diced 2 potatoes, 1 zucchini, 1 eggplant, 1 bell pepper. Add 2 tbsp of tomato paste, salt, pepper, simmer covered for 25 minutes.</string>
+
+    <string name="day_21_title">Lazy Cabbage Rolls</string>
+    <string name="day_21_description">The taste of classic cabbage rolls without the hassle of cabbage leaves. Quick, hearty, homestyle.</string>
+    <string name="day_21_recipe">Mix 300 g of minced meat, 100 g of cooked rice, 1 finely chopped onion, salt, pepper. Form into patties, fry on both sides. Place in a pot, pour over a mixture of 2 tbsp of sour cream, 1 tbsp of tomato paste and 200 ml of water. Simmer for 20 minutes.</string>
+
+    <string name="day_22_title">Apple Charlotte</string>
+    <string name="day_22_description">A fluffy and aromatic apple pie that everyone can make. The perfect dessert for tea.</string>
+    <string name="day_22_recipe">Beat 3 eggs with a glass of sugar, add a glass of flour, mix. Slice 3 apples, place in a mold, pour over the batter. Bake for 30-40 minutes at 180°C (350°F).</string>
+
+    <string name="day_23_title">Lavash with Cheese</string>
+    <string name="day_23_description">A crispy lavash roll with melted cheese inside. Cooks faster than a sandwich.</string>
+    <string name="day_23_recipe">Sprinkle thin lavash (flatbread) with 150 g of grated cheese and chopped herbs, roll up. Fry in a pan on both sides until the cheese melts.</string>
+
+    <string name="day_24_title">Cottage Cheese Triangles</string>
+    <string name="day_24_description">Tender shortbread cookies with cottage cheese — a favorite treat from childhood. Sprinkled with sugar, they melt in your mouth.</string>
+    <string name="day_24_recipe">Knead dough from 200 g of cottage cheese, 100 g of soft butter, 1 cup of flour, 1 tsp of baking powder and a pinch of salt. Roll out, cut into circles, sprinkle with sugar, fold in half and then in half again (triangle). Bake for 20 minutes at 180°C (350°F).</string>
+
+    <string name="day_25_title">Apples with Cottage Cheese</string>
+    <string name="day_25_description">Baked apples with cottage cheese filling — a healthy and light dessert without excess sugar.</string>
+    <string name="day_25_recipe">Cut off the tops of 3 apples, remove the core. Mix 150 g of cottage cheese with 1 tbsp of honey or sugar, stuff the apples. Bake for 20 minutes at 180°C (350°F).</string>
+
+    <string name="day_26_title">Pizza on Ready-Made Dough</string>
+    <string name="day_26_description">Homemade pizza in 20 minutes — take ready-made dough and any toppings. Better than delivery.</string>
+    <string name="day_26_recipe">Roll out ready-made yeast dough, spread with tomato paste (2 tbsp). Add toppings: sausage, mushrooms, pepper, olives. Sprinkle with 150 g of grated cheese. Bake for 15-20 minutes at 200°C (400°F).</string>
+
+    <string name="day_27_title">Homemade Nuggets</string>
+    <string name="day_27_description">Crispy chicken pieces that kids love. A homemade version of popular fast food.</string>
+    <string name="day_27_recipe">Cut 300 g of chicken fillet into small pieces. Dredge in flour, then in beaten egg, then in breadcrumbs. Fry in hot oil until golden brown.</string>
+
+    <string name="day_28_title">Country-Style Potatoes</string>
+    <string name="day_28_description">Potato wedges with aromatic spices — a great alternative to french fries.</string>
+    <string name="day_28_recipe">Wash 5-6 potatoes thoroughly, cut into wedges (do not peel). Mix with 2 tbsp of vegetable oil, salt, pepper, paprika (1 tsp) and minced garlic (2 cloves). Place on a baking sheet, bake for 30-40 minutes at 200°C (400°F).</string>
+
+    <string name="day_29_title">Overnight Oats in a Jar</string>
+    <string name="day_29_description">Breakfast that cooks itself while you sleep. Healthy oats with berries from the fridge.</string>
+    <string name="day_29_recipe">Put 4 tbsp of rolled oats into a jar, pour in 100 ml of milk, add 1 tsp of honey and a handful of berries. Close the lid and refrigerate overnight.</string>
+
+    <string name="day_30_title">Homemade Lemonade</string>
+    <string name="day_30_description">A refreshing drink with citrus flavor and mint. Better than any store-bought.</string>
+    <string name="day_30_recipe">In a pitcher, mix the juice of 2 lemons, 4 tbsp of sugar (or honey), a handful of mint. Pour in 1 liter of sparkling water, add ice and lemon slices.</string>
+
+</resources>
